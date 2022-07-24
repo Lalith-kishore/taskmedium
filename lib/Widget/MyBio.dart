@@ -15,7 +15,7 @@ class _MyBioState extends State<MyBio> {
           body: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
-              Container(child: Text("Create User",
+              Container(child: Text("My Bio",
                   style: TextStyle(
                     fontSize: 20,
                     fontWeight: FontWeight.w900,
