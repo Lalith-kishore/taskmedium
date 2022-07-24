@@ -82,7 +82,7 @@ class _CreateUserState extends State<CreateUser> {
                       setState(() {
                         Navigator.push(
                           context,
-                          MaterialPageRoute(builder: (context) => const AdminCreateProject()),
+                          MaterialPageRoute(builder: (context) => const CreateUser()),
                         );
 
                       });
